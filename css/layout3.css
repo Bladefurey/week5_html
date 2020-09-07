@@ -1,0 +1,17 @@
+.container-fluid .row .column{
+    text-align:center;
+}
+.container-fluid .row .column h2{
+    color:white;
+}
+.container-fluid .row .column1{
+    text-align:center;
+    height:250px;
+}
+.container-fluid .row .column1 h2{
+    color:white;
+}
+.container .row .column1{
+    border:5px solid white;
+    background-color:grey;
+}

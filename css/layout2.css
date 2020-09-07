@@ -1,0 +1,22 @@
+.row .column{
+    text-align:center;
+}
+h3{
+    
+    color:white
+}
+.row1 .column{
+    text-align:center;
+    height:150px;
+}
+.row .column1{
+    background-color:lightgrey;
+    border:5px solid white;
+}
+.column1 .boxes{
+    background-color:grey;
+    height:100px;
+    width:100%;
+    margin:0px;
+    padding:0px;
+}

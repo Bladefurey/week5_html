@@ -1,0 +1,31 @@
+
+.container-fluid .row .column{
+    text-align:center;
+}
+.menu ul li{
+    
+    float:left;
+    list-style:none;
+    padding-right:20px;
+}
+.container-fluid .row .column1 p{
+    border:2px solid black;
+}
+
+
+.container .row .column{
+    background-color:grey;
+    border:5px solid white;
+    height:150px;
+}
+@media only screen and (max-width:768px){
+    .container-fluid .row .column1{
+        display:none;
+    }
+    .container .row .column2{
+        display:none;
+    }
+    .container .row .column1{
+        text-align:center;
+    }
+}

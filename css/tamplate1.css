@@ -1,0 +1,17 @@
+
+.nav{
+    background-color:lightgrey;
+    height:80px;
+}
+.navsm{
+    padding-top:20px;
+}
+img{
+    border-radius:50%;
+}
+.lis li{
+    float:left;
+}
+.lis li a{
+    margin-right:50px ;
+}
